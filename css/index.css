@@ -47,6 +47,7 @@ article h2 {
 article ul li {
     text-align: center;
     margin-top: 22px;
+    list-style: none;
 }
 p {
     text-align: center;
@@ -63,8 +64,18 @@ p img {
 .connect {
     text-align: center;
 }
-footer p {
-    height: 200px;
+footer {
+    height: 300px;
     width: 100%;
     background: lightgrey;
+}
+.end {
+    float: left;
+}
+.maps {
+    float: right;
+    margin-top: -35px;
+}
+form input {
+    size: portrait;
 }
