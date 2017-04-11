@@ -2,7 +2,7 @@
     margin:0;
 }
 header {
-    background-image: url("/img/title.jpg");
+    background-image: url("//img/title.jpg");
     background-position: center center;
     background-size: cover;
     display: flex;
@@ -75,7 +75,4 @@ footer {
 .maps {
     float: right;
     margin-top: -35px;
-}
-form input {
-    size: portrait;
 }
