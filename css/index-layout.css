@@ -14,6 +14,9 @@
     main nav {
         order: 3;
     }
+    div {
+        flex-direction:column;
+    }
 }
 @media screen and (max-width: 450px) {
     aside div {
